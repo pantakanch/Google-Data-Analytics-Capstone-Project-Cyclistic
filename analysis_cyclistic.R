@@ -43,12 +43,12 @@ data_q3 %>%
   group_by(rider_type) %>%
   summarise(total = n())
 
-## 2. Rides per Bike type per rider type
+## 2. Total Rides per Bike type per rider type
 data_q3 %>%
   group_by(bike_type, rider_type) %>%
   summarise(n_bike = n())
 
-## 3. Average ride length per rider type
+## 3. Average ride length rider type
 data_q3 %>%
   group_by(rider_type) %>%
   summarise(mean_ride_length = mean(times(ride_length)))
@@ -83,7 +83,7 @@ data_q3 %>%
 ---------------
 ## Data Visualization
 ---------------
-## Total rides
+## Total rides per rider type
 n_rides <- data_q3 %>%
   group_by(rider_type) %>%
   summarise(total = n())
@@ -104,10 +104,10 @@ ggplot(n_rides,
     position = position_stack(vjust = 0.5)
   ) +
   scale_fill_brewer(palette="Blues") +
-  ggtitle("Total Rides") +
+  ggtitle("Total Rides per rider type") +
   theme_void()
 
-## Rides per Bike type
+## Total Rides per Bike type
 n_bike_type <- data_q3 %>%
   group_by(bike_type) %>%
   summarise(n_bike = n())
@@ -120,7 +120,7 @@ ggplot(n_bike_type,
   labs(x = "Type", y = "Number of rides") +
   theme_minimal()
 
-## Number of rides by week
+## Total rides by week per rider type
 n_week_ride <- data_q3 %>%
   group_by(week, rider_type) %>%
   summarise(n_ride = n())
