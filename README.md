@@ -22,11 +22,14 @@ I utilized Cyclistic's historical trip data to analyze and identify trends, choo
 - Created a column named "day_of_week" using the "WEEKDAY" function to return the day of the week from the "started_at" column. The result is an integer ranging from 1 (Monday) to 7 (Sunday)
 
 **SQL**
+- Import CSV file
 - Merged all datasets into one table
 - Removed NULL values
 - Updated the "day_of_week" column from 1-7 to Monday-Sunday
+- Export "divvy_tripdata_q3" as CSV file
 
 **R**
+- Import divvy_tripdata_q3.csv
 - Changed column names for better readability
 - Created columns named "month" and "week" by extracting data from the "started_at" column
 
