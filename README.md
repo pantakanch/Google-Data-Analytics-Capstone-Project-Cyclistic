@@ -61,9 +61,10 @@ In addition, I created some visualizations in RStudio, including:
 ![Rplot03](https://github.com/pantakanch/Google-Data-Analytics-Capstone-Project-Cyclistic/assets/113978334/b3fbdda7-9a12-4f42-96e5-c91ce73b1afd)
 
 # 5. Share
-After analyzing the data, I created a [Dashboard](https://drive.google.com/file/d/1Q0pt9yEZXX0a08wdhfr3Ah5qgOUoIMmh/view?usp=sharing) in Power BI to share insights with stakeholders.
+After analyzing the data, I created a dashboard in Power BI to share insights with stakeholders.
 
 ![Screenshot 2023-12-01 115150](https://github.com/pantakanch/Google-Data-Analytics-Capstone-Project-Cyclistic/assets/113978334/a985ecf5-3a01-4a7a-ba20-0eaa0d1ad4c6)
+[Dashboard Link](https://drive.google.com/file/d/1Q0pt9yEZXX0a08wdhfr3Ah5qgOUoIMmh/view?usp=sharing)
 
 **Summary Insight**
 - The number of annual members is greater than the number of casual riders, accounting for 59%, compared to 41%.
