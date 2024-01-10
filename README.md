@@ -52,15 +52,19 @@ I conducted descriptive analysis to answer questions such as:
 
 Visualizations were created in RStudio, including:
 - Total rides per rider type
+
 ![Rplot](https://github.com/pantakanch/Google-Data-Analytics-Capstone-Project-Cyclistic/assets/113978334/78c418ad-8336-4c2e-9936-347cd49afc44)
 
 - Total rides per bike type
+
 ![Rplot01](https://github.com/pantakanch/Google-Data-Analytics-Capstone-Project-Cyclistic/assets/113978334/611e10ba-33fc-4ae0-ae0b-750ee2dac58b)
 
 - Total rides by week per rider type
+
 ![Rplot02](https://github.com/pantakanch/Google-Data-Analytics-Capstone-Project-Cyclistic/assets/113978334/bd298115-6733-4dcc-9942-22bb2559b0bb)
 
 - Average rides by day of the week
+
 ![Rplot03](https://github.com/pantakanch/Google-Data-Analytics-Capstone-Project-Cyclistic/assets/113978334/b3fbdda7-9a12-4f42-96e5-c91ce73b1afd)
 
 ## 5. Share
