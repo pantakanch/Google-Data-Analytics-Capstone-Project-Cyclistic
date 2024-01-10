@@ -1,4 +1,4 @@
-# Google-Data-Analytics-Capstone-Project-Cyclistic
+# Google Data Analytics Capstone Project Cyclistic
 
 # Introduction
 This document presents my capstone project for the Google Data Analytics Professional Certificate. The final course presentation will summarize and present the key learnings from the course. Analyzing a case study from Cyclistic, a bike-share company in Chicago, will demonstrate the application of the six-phase data analysis approach (Ask, Prepare, Process, Analyze, Share, Act) to uncover valuable insights.
