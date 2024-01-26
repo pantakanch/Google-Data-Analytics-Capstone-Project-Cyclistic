@@ -72,22 +72,24 @@ Visualizations were created in RStudio, including:
 I created a Power BI dashboard to share insights with stakeholders. [View Dashboard](https://drive.google.com/file/d/1Q0pt9yEZXX0a08wdhfr3Ah5qgOUoIMmh/view?usp=sharing)
 
 **Summary Insights:**
-- Annual members constitute 59% of riders, while casual riders make up 41%.
+- The number of annual members is greater than the number of casual riders, accounting for 59%, compared to 41%.
+- Both annual members and casual riders prefer classic bikes the most, followed by electric bikes.
+- Members ride more during weekdays, while casual riders prefer weekends.
 - Weekly rides for annual members are approximately twice as much as casual riders.
 - Casual riders tend to have longer average ride lengths.
-- Annual members prefer classic and electric bikes.
-- Usage patterns differ; members ride more during weekdays, while casual riders prefer weekends.
+- The top starting station for members is Clark Street & Elm Street, located in the affluent Gold Coast neighborhood of Chicago. Additionally, several CTA bus stops and a Red Line subway station are conveniently located at the intersection.
+- The top starting station for casual riders is Streeter Drive & Grand Avenue, conveniently located near Navy Pier, a popular Chicago tourist destination. Furthermore, it is close to several bus stops and a Metra station, making it an ideal spot for exploring the city.
 
 ## 6. Act
 
 Based on insights, here are the top 5 recommendations for Cyclistic:
 
 1. **Promotional Strategies:**
-   - Tailor promotions for annual members on weekdays to enhance loyalty.
-   - Run weekend-specific promotions for casual riders.
+   - Launch targeted promotions, discounts, and exclusive offers specifically for annual members during weekdays. This can further incentivize their high usage and enhance member loyalty.
+   - Launch weekend-specific promotions, discounts, or events to attract more casual riders during their preferred time of use. This can help increase overall ridership and potentially convert casual riders into members.
 
 2. **Membership Conversion Campaign:**
-   - Launch a marketing campaign to convert casual riders into annual members.
+   - Develop a marketing campaign aimed at converting casual riders into annual members. Highlight the benefits of membership, including cost savings and weekday convenience.
 
 3. **Collaborations and Partnerships:**
    - Partner with local businesses in high-traffic areas to offer exclusive perks for annual members.
